@@ -52,7 +52,7 @@ For that, simply add the following npm script:
 }
 ~~~
 
-Then you need to start your Next.js app on a port. That will do side rendering and serve pages (built with the above command).
+Then you need to start your Next.js app on a port. That will do server side rendering and serve pages (built with the above command).
 
 For that, add the following npm script:
 
